@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Updesh Yadav</h1>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Enthusiast%F0%9F%92%BB%F0%9F%92%BB;Contributor%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Developer%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h3> <img align="right"alt="coding"width="400"src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
 
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sagar-03&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-03" /> 
 </p>
 
-- 📫 Reach me: **[sagarjha2004@gmail.com](mailto:sagarjha2004@gmail.com)**
+- 📫 Reach me: **[updesh2424@gmail.com](mailto:updesh2424@gmail.com)**
 
 ### 🔗 Connect with me:
 
@@ -39,12 +39,9 @@
 **Backend:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases:**
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Design:**
@@ -58,10 +55,10 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sagar-03&theme=dark)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Updesh2233&theme=dark)](https://git.io/streak-stats)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-03&show_icons=true&locale=en&layout=compact" alt="sagar-03" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Updesh2233&show_icons=true&locale=en&layout=compact" alt="sagar-03" />
 </p>
 
 ---
