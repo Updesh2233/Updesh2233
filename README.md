@@ -12,10 +12,8 @@
 
 ### 🔗 Connect with me:
 
-[![Twitter](https://img.shields.io/twitter/follow/sagarkumar16289?logo=twitter&style=for-the-badge)](https://twitter.com/sagarkumar16289)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Kumar%20Jha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sagar-kumar-jha-237405240)
-[![Instagram](https://img.shields.io/badge/Instagram-_sagar_kumar03-orange?style=for-the-badge&logo=instagram)](https://instagram.com/_sagar_kumar03)
-
+[![Twitter](https://img.shields.io/twitter/follow/Updeshm24?logo=twitter&style=for-the-badge)]((https://x.com/Updeshm24))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-updesh-yadav-5280982ab?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/updesh-yadav-5280982ab)
 ---
 
 ### 🛠️ Tech Stack:
