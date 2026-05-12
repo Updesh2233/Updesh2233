@@ -56,7 +56,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Updesh2233&theme=dark)](https://git.io/streak-stats)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Updesh2233&show_icons=true&locale=en&layout=compact" alt="sagar-03" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Updesh2233&show_icons=true&locale=en&layout=compact" alt="Updesh2233" />
 </p>
 
 ---
